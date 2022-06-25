@@ -1,14 +1,8 @@
 # react-cli
 
-✨ 特点
-💎 webpack5
-
-🚀 babel配置
-
-⚙️后端和数据库：使用云服务+serverless开发方式实现，利用轻服务进行网页托管、接口部署、数据存储。
-
 📦 使用
-$ git clone https://github.com/Jesslynwong/react-cli.git
+
+ git clone https://github.com/Jesslynwong/react-cli.git
 
 # yarn 
 yarn install
