@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "src/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*"  // **/的意思是递归匹配任何子目录
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
+  
